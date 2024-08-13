@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: thopd88/modern-resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,8 +8,10 @@ version: 2
 # Personal info
 name: Pham Duc Tho
 title: Pham Duc Tho (Alex) - a Son, Husband, Father, Lecturer, Developer and a Friend
-email: thopd@vnu.edu.vn
-website: www.is.vnu.edu.vn/en/phd-pham-duc-tho
+# email: thopd@vnu.edu.vn
+# website: www.is.vnu.edu.vn/en/phd-pham-duc-tho
+vcard_en: assets/vcard_phamductho_en.vcf
+vcard_vi: assets/vcard_phamductho_vi.vcf
 
 # Dark Mode (true/false/never)
 darkmode: false
