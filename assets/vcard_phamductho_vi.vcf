@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Phạm Đức Thọ
+N;CHARSET=UTF-8:Thọ;Phạm;Đức;
+NICKNAME;CHARSET=UTF-8:Alex
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:thopd@vnu.edu.vn
+TEL;TYPE=CELL:0829667888
+TITLE;CHARSET=UTF-8:TS
+ORG;CHARSET=UTF-8:Trường Quốc tế - Đại học Quốc gia Hà Nội
+URL;CHARSET=UTF-8:https://thopd88.github.io
+URL;type=WORK;CHARSET=UTF-8:https://www.is.vnu.edu.vn/en/phd-pham-duc-tho/
+X-SOCIALPROFILE;TYPE=facebook:https://facebook.com/thopd
+X-SOCIALPROFILE;TYPE=linkedin:https://linkedin.com/in/thopd
+REV:2024-08-13T07:44:48.412Z
+END:VCARD
