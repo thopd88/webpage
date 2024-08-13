@@ -9,7 +9,7 @@ version: 2
 name: Pham Duc Tho
 title: Pham Duc Tho (Alex) - a Son, Husband, Father, Lecturer, Developer and a Friend
 # email: thopd@vnu.edu.vn
-website: www.is.vnu.edu.vn/en/phd-pham-duc-tho
+# website: www.is.vnu.edu.vn/en/phd-pham-duc-tho
 vcard_en: assets/vcard_phamductho_en.vcf
 vcard_vi: assets/vcard_phamductho_vi.vcf
 
@@ -18,18 +18,18 @@ darkmode: false
 
 # Social links
 # twitter_username: facespics
-github_username:  thopd88
+# github_username:  thopd88
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: thopd
+# facebook_username: thopd
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: thopd
+# linkedin_username: thopd
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
-orcid_username: 0000-0003-4554-1540
+# orcid_username: 0000-0003-4554-1540
 
 # Additional icon links
 # additional_links:
@@ -61,6 +61,10 @@ content:
   - title: Other Links
     layout: text
     content: | 
+      - [Facebook](https://www.facebook.com/thopd)
+      - [LinkedIn](https://www.linkedin.com/in/thopd)
+      - [GitHub](https://www.github.com/thopd88)
+      - [ORCID](https://orcid.org/0000-0003-4554-1540)
       - [Web of Science Author](https://www.webofscience.com/wos/author/record/46065993)
       - [Scopus Author](https://www.scopus.com/authid/detail.uri?authorId=57194155325)
   - title: Projects # Title for the section
