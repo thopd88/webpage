@@ -9,7 +9,8 @@ version: 2
 name: Pham Duc Tho
 title: Pham Duc Tho (Alex) - a Son, Husband, Father, Lecturer, Developer and a Friend
 email: thopd@vnu.edu.vn
-website: www.is.vnu.edu.vn/en/phd-pham-duc-tho
+website_title: Save my contact [English](/assets/vcard_phamductho_en.vcf) | Lưu danh bạ [Tiếng Việt](/assets/vcard_phamductho_vi.vcf)
+website: /assets/vcard_phamductho_vi.vcf
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,8 +49,7 @@ orcid_username: 0000-0003-4554-1540
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Save my contact information: [English](/assets/vcard_phamductho_en.vcf) 
-  Lưu danh bạ: [Tiếng Việt](/assets/vcard_phamductho_vi.vcf)
+  Save my contact information: [English](/assets/vcard_phamductho_en.vcf) [Tiếng Việt](/assets/vcard_phamductho_vi.vcf)
 
   Hi, my name's Pham-Duc Tho and I am a lecturer at the International School, Vietnam National University, with a PhD in Computer Science, specializing in Learning Technologies, and recognized for significant research contributions.
 
