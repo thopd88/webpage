@@ -50,7 +50,7 @@ darkmode: false
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Save my contact information: [English](/assets/vcard_phamductho_en.vcf) 
+  Save my contact: [English](/assets/vcard_phamductho_en.vcf) 
   
   Lưu danh bạ: [Tiếng Việt](/assets/vcard_phamductho_vi.vcf)
 
