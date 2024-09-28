@@ -71,20 +71,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Peer-Interaction Programming Learning System
+        title: Peer-Interaction Programming Learning System (Author)
         link: pipls.net
       - layout: top-middle
-        title: Cùng Học
+        title: Cùng Học (Author)
         link: cunghoc.net
       - layout: top-middle
-        title: FreqTrade
+        title: FreqTrade (Contributor)
         link: github.com/freqtrade/freqtrade/graphs/contributors
       - layout: top-middle
-        title: Hung Vuong University Virtual Tour
-        link: 360.hvu.edu.vn/V1/
+        title: Hung Vuong University Virtual Tour (Author)
+        link: 360.hvu.edu.vn/V1
       - layout: top-middle
-        title: Hung Vuong University LMS
-        link: elearning.hvu.edu.vn/
+        title: Hung Vuong University LMS (Author)
+        link: elearning.hvu.edu.vn
         # link_text: Project Website
         # additional_links:
         #   - title:  sproogen/modern-resume-theme
